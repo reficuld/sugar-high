@@ -1,0 +1,9 @@
+There are two for-loops, first one goes through all elements in array of candies(shortening it by first element).
+Second loop adds indexes to the array of indexes and updates sum.
+Also, variable cnt is incremeneted for each added element.
+After this i-loop, I check if sum that we got in loop is less than current minSum
+and if the number of candies is equal or greater than current max number of candies.
+If it is, then I add elements of array of indexes to the main Array. 
+In the final step of function sugarHigh,
+I shortened output array.(so it only displays for example : 2 3 and not 2 3 0 0 0).
+I will add comments to my code, so it's easier to understand it.
